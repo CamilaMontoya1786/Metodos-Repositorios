@@ -1,0 +1,8 @@
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersonas\bin\Debug\cnPersonas.exe.config
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersonas\bin\Debug\cnPersonas.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersonas\bin\Debug\cnPersonas.pdb
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersonas\obj\Debug\cnPersonas.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersonas\obj\Debug\cnPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersonas\obj\Debug\cnPersonas.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersonas\obj\Debug\cnPersonas.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersonas\obj\Debug\cnPersonas.pdb

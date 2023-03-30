@@ -1,0 +1,8 @@
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnTemperaturas\bin\Debug\cnTemperaturas.exe.config
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnTemperaturas\bin\Debug\cnTemperaturas.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnTemperaturas\bin\Debug\cnTemperaturas.pdb
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnTemperaturas\obj\Debug\cnTemperaturas.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnTemperaturas\obj\Debug\cnTemperaturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnTemperaturas\obj\Debug\cnTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnTemperaturas\obj\Debug\cnTemperaturas.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnTemperaturas\obj\Debug\cnTemperaturas.pdb

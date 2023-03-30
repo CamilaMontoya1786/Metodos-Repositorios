@@ -1,0 +1,24 @@
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersona\bin\Debug\cnPersonas.exe.config
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersona\bin\Debug\cnPersonas.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersona\bin\Debug\cnPersonas.pdb
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersona\obj\Debug\cnPersona.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersona\obj\Debug\cnPersona.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersona\obj\Debug\cnPersona.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersona\obj\Debug\cnPersonas.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\cnPersona\obj\Debug\cnPersonas.pdb
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\cnPersona\bin\Debug\cnPersonas.exe.config
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\cnPersona\bin\Debug\cnPersonas.exe
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\cnPersona\bin\Debug\cnPersonas.pdb
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\cnPersona\obj\Debug\cnPersona.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\cnPersona\obj\Debug\cnPersona.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\cnPersona\obj\Debug\cnPersona.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\cnPersona\obj\Debug\cnPersonas.exe
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\cnPersona\obj\Debug\cnPersonas.pdb
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\REPOSITORIOS-MÉTODOS\CnPersona\bin\Debug\cnPersonas.exe.config
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\REPOSITORIOS-MÉTODOS\CnPersona\bin\Debug\cnPersonas.exe
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\REPOSITORIOS-MÉTODOS\CnPersona\bin\Debug\cnPersonas.pdb
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\REPOSITORIOS-MÉTODOS\CnPersona\obj\Debug\cnPersona.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\REPOSITORIOS-MÉTODOS\CnPersona\obj\Debug\cnPersona.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\REPOSITORIOS-MÉTODOS\CnPersona\obj\Debug\cnPersona.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\REPOSITORIOS-MÉTODOS\CnPersona\obj\Debug\cnPersonas.exe
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\REPOSITORIOS-MÉTODOS\CnPersona\obj\Debug\cnPersonas.pdb

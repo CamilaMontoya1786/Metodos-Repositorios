@@ -1,0 +1,16 @@
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\Ejercicio7_Montoya\bin\Debug\Ejercicio7_Montoya.exe.config
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\Ejercicio7_Montoya\bin\Debug\Ejercicio7_Montoya.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\Ejercicio7_Montoya\bin\Debug\Ejercicio7_Montoya.pdb
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.exe
+C:\Users\camim\OneDrive\Escritorio\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.pdb
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\Ejercicio7_Montoya\bin\Debug\Ejercicio7_Montoya.exe.config
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\Ejercicio7_Montoya\bin\Debug\Ejercicio7_Montoya.exe
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\Ejercicio7_Montoya\bin\Debug\Ejercicio7_Montoya.pdb
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.csproj.AssemblyReference.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.csproj.SuggestedBindingRedirects.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.csproj.CoreCompileInputs.cache
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.exe
+C:\Users\camim\OneDrive\Escritorio\3 SEMESTRE\Proyectos visual\Ejercicio7_Montoya\obj\Debug\Ejercicio7_Montoya.pdb
